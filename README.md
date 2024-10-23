@@ -1,6 +1,6 @@
-# Projeto Teach me Cubos Academy
-Projeto de um site para estudos, com a utilização de HTML, CSS, Javascript, React e integração com o ChatGPT
-Este epositório contém o material e os exemplos do Curso de Programação na Prática oferecido pela Cubos Academy. 
+# Projeto Teach.me Cubos Academy
+Projeto de um site para estudos, com a utilização de HTML, CSS, Javascript, React e integração com o ChatGPT.
+Este repositório contém o material e os exemplos do Curso de Programação na Prática oferecido pela Cubos Academy. 
 O curso tem como objetivo ensinar os fundamentos do desenvolvimento web, incluindo conceitos de programação e o uso da inteligência artificial 
 para a criação de um projeto, chamado 'Teach.me', onde o usuário pode escolher temas para estudar ou ainda escolher temas prontos. 
 O curso é bastante amplo, são muitas horas de prática e com vídeo-aulas incríveis!
