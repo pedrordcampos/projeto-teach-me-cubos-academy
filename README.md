@@ -51,7 +51,7 @@ O curso é bastante amplo, são muitas horas de prática e com vídeo-aulas incr
 #### E-mail: pedro.rdcampos@hotmail.com
 #### Linkedin: https://www.linkedin.com/in/pedro-ricardo-de-campos/
 
-
+# ![Certificado](Certificado_Cubos_Academy.jpg)
 
 
 
